@@ -1,4 +1,4 @@
-# NTK Aware Scaled RoPE Emperiment
+# NTK Aware Scaled RoPE Experiment
 
 Experiment result:
 
